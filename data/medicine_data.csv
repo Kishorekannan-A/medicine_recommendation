@@ -1,0 +1,241 @@
+Age_Category,Disease,Symptom_1,Symptom_2,Symptom_3,Medicine_Recommendation
+Below 16,Fever,High temp (102+),3+ days,Chills,Dolo 650
+Below 16,Fever,Mild temp (99-100),1-2 days,No chills,Crocin
+16-60,Fever,High temp (102+),3+ days,Chills,Paracetamol
+16-60,Fever,Mild temp (99-100),1-2 days,No chills,Calpol
+Above 60,Fever,High temp (102+),3+ days,Chills,Dolo 650
+Above 60,Fever,Mild temp (99-100),1-2 days,No chills,Crocin Advance
+Below 16,Vomiting,5+ times,Dehydration,Nausea,Ondem MD 4
+Below 16,Vomiting,2-3 times,No dehydration,Mild nausea,Domstal
+16-60,Vomiting,5+ times,Dehydration,Nausea,Emeset
+16-60,Vomiting,2-3 times,No dehydration,Mild nausea,Perinorm
+Above 60,Vomiting,5+ times,Dehydration,Nausea,Ondem Syrup
+Above 60,Vomiting,2-3 times,No dehydration,Mild nausea,Domstal Drops
+Below 16,Common Cold,Runny nose,Dry cough,Fever,Sinarest
+Below 16,Common Cold,No runny nose,Wet cough,No fever,Ascoril D Plus
+16-60,Common Cold,Runny nose,Dry cough,Fever,Relent
+16-60,Common Cold,No runny nose,Wet cough,No fever,Benadryl
+Above 60,Common Cold,Runny nose,Dry cough,Fever,Sinarest Syrup
+Above 60,Common Cold,No runny nose,Wet cough,No fever,Ascoril LS
+Below 16,Skin Infection,Red,Arm,Itching,Candid-B Cream
+Below 16,Skin Infection,Black spot,Foot,No itching,Lulican Cream
+16-60,Skin Infection,Red,Arm,Itching,Clobetasol Cream
+16-60,Skin Infection,Black spot,Foot,No itching,Onabet Cream
+Above 60,Skin Infection,Red,Arm,Itching,Candid Dusting Powder
+Above 60,Skin Infection,Black spot,Foot,No itching,Luliconazole
+Below 16,Diarrhea,5+ times,Dehydration,Pain,Eldoper + ORS
+Below 16,Diarrhea,2-3 times,No dehydration,No pain,Nor Metrogyl
+16-60,Diarrhea,5+ times,Dehydration,Pain,Loperamide + ORS
+16-60,Diarrhea,2-3 times,No dehydration,No pain,Metronidazole
+Above 60,Diarrhea,5+ times,Dehydration,Pain,Eldoper + Electral
+Above 60,Diarrhea,2-3 times,No dehydration,No pain,Norflox TZ
+Below 16,Headache,2+ hours,High intensity,No blur,Saridon
+Below 16,Headache,1 hour,Low intensity,Vision blur,Crocin Pain Relief
+16-60,Headache,2+ hours,High intensity,No blur,Naproxen
+16-60,Headache,1 hour,Low intensity,Vision blur,Ibuprofen
+Above 60,Headache,2+ hours,High intensity,No blur,Sumatriptan
+Above 60,Headache,1 hour,Low intensity,Vision blur,Paracetamol
+Below 16,Acidity,Burning,Bloating,Nausea,Pan D
+Below 16,Acidity,No burning,No bloating,No nausea,Gelusil
+16-60,Acidity,Burning,Bloating,Nausea,Rantac
+16-60,Acidity,No burning,No bloating,No nausea,Digene
+Above 60,Acidity,Burning,Bloating,Nausea,Omeprazole
+Above 60,Acidity,No burning,No bloating,No nausea,Eno
+Below 16,Eye Infection,Redness,Discharge,Itching,Tobram Eye Drops
+Below 16,Eye Infection,No redness,No discharge,No itching,Olopat Eye Drops
+16-60,Eye Infection,Redness,Discharge,Itching,Ciplox Eye Drops
+16-60,Eye Infection,No redness,No discharge,No itching,Refresh Tears
+Above 60,Eye Infection,Redness,Discharge,Itching,Moxifloxacin Drops
+Above 60,Eye Infection,No redness,No discharge,No itching,Lubricant Drops
+Below 16,Cough,Dry,3+ days,Fever,Bendryl Dry Cough
+Below 16,Cough,Wet,1-2 days,No fever,Ascoril LS
+16-60,Cough,Dry,3+ days,Fever,Corex
+16-60,Cough,Wet,1-2 days,No fever,Grilinctus
+Above 60,Cough,Dry,3+ days,Fever,Vicks Cough Syrup
+Above 60,Cough,Wet,1-2 days,No fever,Ambroxol
+Below 16,Body Pain,Back,High intensity,Fever,Dolo 650 + Flexon
+Below 16,Body Pain,Leg,Low intensity,No fever,Volini Spray
+16-60,Body Pain,Back,High intensity,Fever,Combiflam
+16-60,Body Pain,Leg,Low intensity,No fever,Moov Cream
+Above 60,Body Pain,Back,High intensity,Fever,Ibuprofen + Paracetamol
+Above 60,Body Pain,Leg,Low intensity,No fever,Zandu Balm
+Below 16,Allergies,Dust,Rash,Sneezing,Levocet M
+Below 16,Allergies,Pollen,No rash,No sneezing,Cetirizine
+16-60,Allergies,Dust,Rash,Sneezing,Allegra
+16-60,Allergies,Pollen,No rash,No sneezing,Montair LC
+Above 60,Allergies,Dust,Rash,Sneezing,Avil
+Above 60,Allergies,Pollen,No rash,No sneezing,Desloratadine
+Below 16,Ear Infection,Pain,Discharge,No hearing loss,Ciplox Ear Drops
+Below 16,Ear Infection,No pain,No discharge,Hearing loss,Otek-AC Ear Drops
+16-60,Ear Infection,Pain,Discharge,No hearing loss,Ofloxacin Ear Drops
+16-60,Ear Infection,No pain,No discharge,Hearing loss,Candibiotic Drops
+Above 60,Ear Infection,Pain,Discharge,No hearing loss,Waxolve Drops
+Above 60,Ear Infection,No pain,No discharge,Hearing loss,Soliwax Drops
+Below 16,Sore Throat,Pain,Fever,Swallowing difficulty,Azithral 500
+Below 16,Sore Throat,No pain,No fever,No difficulty,Strepsils
+16-60,Sore Throat,Pain,Fever,Swallowing difficulty,Amoxicillin
+16-60,Sore Throat,No pain,No fever,No difficulty,Vicks Lozenges
+Above 60,Sore Throat,Pain,Fever,Swallowing difficulty,Clarithromycin
+Above 60,Sore Throat,No pain,No fever,No difficulty,Halls
+Below 16,Fatigue,5+ days,Poor sleep,Weakness,Revital H
+Below 16,Fatigue,2 days,Good sleep,No weakness,Dexorange Syrup
+16-60,Fatigue,5+ days,Poor sleep,Weakness,Becosules
+16-60,Fatigue,2 days,Good sleep,No weakness,Supradyn
+Above 60,Fatigue,5+ days,Poor sleep,Weakness,Shelcal
+Above 60,Fatigue,2 days,Good sleep,No weakness,Zincovit
+Below 16,Joint Pain,Knee,Swelling,Stiffness,Volini Gel
+Below 16,Joint Pain,Shoulder,No swelling,No stiffness,Zandu Ortho Oil
+16-60,Joint Pain,Knee,Swelling,Stiffness,Diclofenac Gel
+16-60,Joint Pain,Shoulder,No swelling,No stiffness,Fastum Gel
+Above 60,Joint Pain,Knee,Swelling,Stiffness,Oxalgin Nano Gel
+Above 60,Joint Pain,Shoulder,No swelling,No stiffness,Moov Spray
+Below 16,Stomach Ache,Upper,Nausea,Diarrhea,Pan D
+Below 16,Stomach Ache,Lower,No nausea,No diarrhea,Cyclopam
+16-60,Stomach Ache,Upper,Nausea,Diarrhea,Meftal Spas
+16-60,Stomach Ache,Lower,No nausea,No diarrhea,Buscopan
+Above 60,Stomach Ache,Upper,Nausea,Diarrhea,Rantac + ORS
+Above 60,Stomach Ache,Lower,No nausea,No diarrhea,Colospa
+Below 16,Toothache,High pain,Swelling,Sensitivity,Metrogyl Gel
+Below 16,Toothache,Low pain,No swelling,No sensitivity,Sensodyne
+16-60,Toothache,High pain,Swelling,Sensitivity,Ketoprofen Gel
+16-60,Toothache,Low pain,No swelling,No sensitivity,Colgate Pain Out
+Above 60,Toothache,High pain,Swelling,Sensitivity,Clove Oil
+Above 60,Toothache,Low pain,No swelling,No sensitivity,Orajel
+Below 16,Constipation,3+ days,Pain,Bloating,Cremaffin Plus
+Below 16,Constipation,1-2 days,No pain,No bloating,Isabgol Husk
+16-60,Constipation,3+ days,Pain,Bloating,Lactulose
+16-60,Constipation,1-2 days,No pain,No bloating,Dulcolax
+Above 60,Constipation,3+ days,Pain,Bloating,Softovac
+Above 60,Constipation,1-2 days,No pain,No bloating,Kayam Churna
+Below 16,Indigestion,Bloating,Nausea,Burning,Digene
+Below 16,Indigestion,No bloating,No nausea,No burning,Gelusil Liquid
+16-60,Indigestion,Bloating,Nausea,Burning,Zandu Pancharishta
+16-60,Indigestion,No bloating,No nausea,No burning,Hajmola
+Above 60,Indigestion,Bloating,Nausea,Burning,Unienzyme
+Above 60,Indigestion,No bloating,No nausea,No burning,Eno Sachet
+Below 16,Malaria,Fever,Chills,Sweating,Lariago DS
+Below 16,Malaria,No fever,No chills,No sweating,Falcigo
+16-60,Malaria,Fever,Chills,Sweating,Coartem
+16-60,Malaria,No fever,No chills,No sweating,Artesunate
+Above 60,Malaria,Fever,Chills,Sweating,Malarone
+Above 60,Malaria,No fever,No chills,No sweating,Quinine
+Below 16,Dengue,Fever,Rash,Joint pain,Dolo 650
+Below 16,Dengue,No fever,No rash,No joint pain,Electral
+16-60,Dengue,Fever,Rash,Joint pain,Paracetamol + ORS
+16-60,Dengue,No fever,No rash,No joint pain,Papaya Leaf Extract
+Above 60,Dengue,Fever,Rash,Joint pain,Aceclofenac
+Above 60,Dengue,No fever,No rash,No joint pain,Zincovit Syrup
+Below 16,Typhoid,Fever,Weakness,Pain,Cefixime 200
+Below 16,Typhoid,No fever,No weakness,No pain,Oflox 200
+16-60,Typhoid,Fever,Weakness,Pain,Azithromycin
+16-60,Typhoid,No fever,No weakness,No pain,Ciprofloxacin
+Above 60,Typhoid,Fever,Weakness,Pain,Ceftriaxone
+Above 60,Typhoid,No fever,No weakness,No pain,Levofloxacin
+Below 16,Jaundice,Yellowing,Fatigue,Nausea,Liv 52
+Below 16,Jaundice,No yellowing,No fatigue,No nausea,Hepamerz Sachet
+16-60,Jaundice,Yellowing,Fatigue,Nausea,Udiliv
+16-60,Jaundice,No yellowing,No fatigue,No nausea,Sorliv Syrup
+Above 60,Jaundice,Yellowing,Fatigue,Nausea,Himalaya Liv 52 DS
+Above 60,Jaundice,No yellowing,No fatigue,No nausea,Heptral
+Below 16,Asthma,Wheezing,Shortness of breath,Cough,Salbutamol Inhaler
+Below 16,Asthma,No wheezing,No shortness,No cough,Budesonide
+16-60,Asthma,Wheezing,Shortness of breath,Cough,Foracort Inhaler
+16-60,Asthma,No wheezing,No shortness,No cough,Levolin
+Above 60,Asthma,Wheezing,Shortness of breath,Cough,Tiotropium
+Above 60,Asthma,No wheezing,No shortness,No cough,Salmeterol
+Below 16,Sinusitis,Congestion,Pain,Fever,Sinarest
+Below 16,Sinusitis,No congestion,No pain,No fever,NasoClear
+16-60,Sinusitis,Congestion,Pain,Fever,Augmentin
+16-60,Sinusitis,No congestion,No pain,No fever,Otrivin
+Above 60,Sinusitis,Congestion,Pain,Fever,Levocetirizine
+Above 60,Sinusitis,No congestion,No pain,No fever,Karvol Plus
+Below 16,Urinary Infection,Burning,5+ times,Cloudy urine,Norflox 400
+Below 16,Urinary Infection,No burning,2-3 times,No cloudy urine,Urimax 0.4
+16-60,Urinary Infection,Burning,5+ times,Cloudy urine,Levofloxacin
+16-60,Urinary Infection,No burning,2-3 times,No cloudy urine,Citalka
+Above 60,Urinary Infection,Burning,5+ times,Cloudy urine,Cefuroxime
+Above 60,Urinary Infection,No burning,2-3 times,No cloudy urine,Alkasol
+Below 16,Back Pain,Lower,2+ days,Stiffness,Volini Spray
+Below 16,Back Pain,Upper,1 day,No stiffness,Zandu Ortho Oil
+16-60,Back Pain,Lower,2+ days,Stiffness,Moov Spray
+16-60,Back Pain,Upper,1 day,No stiffness,Iodex
+Above 60,Back Pain,Lower,2+ days,Stiffness,Relispray
+Above 60,Back Pain,Upper,1 day,No stiffness,Hansaplast Ointment
+Below 16,Nasal Congestion,3+ days,Fever,Headache,Sinarest
+Below 16,Nasal Congestion,1-2 days,No fever,No headache,Otrivin Drops
+16-60,Nasal Congestion,3+ days,Fever,Headache,Vicks Vaporub
+16-60,Nasal Congestion,1-2 days,No fever,No headache,Nasivion
+Above 60,Nasal Congestion,3+ days,Fever,Headache,Metrogyl
+Above 60,Nasal Congestion,1-2 days,No fever,No headache,Karvol Drops
+Below 16,Throat Infection,Pain,Fever,Cough,Azithral 500
+Below 16,Throat Infection,No pain,No fever,No cough,Grilinctus Syrup
+16-60,Throat Infection,Pain,Fever,Cough,Amoxyclav
+16-60,Throat Infection,No pain,No fever,No cough,Cofsils
+Above 60,Throat Infection,Pain,Fever,Cough,Cefpodoxime
+Above 60,Throat Infection,No pain,No fever,No cough,Halls Drops
+Below 16,Piles,Pain,Bleeding,Itching,Pilex Tablets
+Below 16,Piles,No pain,No bleeding,No itching,Anovate Cream
+16-60,Piles,Pain,Bleeding,Itching,Smuth Cream
+16-60,Piles,No pain,No bleeding,No itching,Pilesgon
+Above 60,Piles,Pain,Bleeding,Itching,Hemoclin
+Above 60,Piles,No pain,No bleeding,No itching,Shield Ointment
+Below 16,Migraine,High pain,Nausea,Light sensitivity,Suminat 50
+Below 16,Migraine,Low pain,No nausea,No sensitivity,Naproxen
+16-60,Migraine,High pain,Nausea,Light sensitivity,Rizatriptan
+16-60,Migraine,Low pain,No nausea,No sensitivity,Aspirin
+Above 60,Migraine,High pain,Nausea,Light sensitivity,Zolmitriptan
+Above 60,Migraine,Low pain,No nausea,No sensitivity,Flunarizine
+Below 16,Gastritis,Burning,Nausea,Bloating,Pan D
+Below 16,Gastritis,No burning,No nausea,No bloating,Digene
+16-60,Gastritis,Burning,Nausea,Bloating,Lansoprazole
+16-60,Gastritis,No burning,No nausea,No bloating,Aciloc
+Above 60,Gastritis,Burning,Nausea,Bloating,Esomeprazole
+Above 60,Gastritis,No burning,No nausea,No bloating,Gelusil Tablet
+Below 16,Bronchitis,Cough,Fever,Chest pain,Augmentin 625
+Below 16,Bronchitis,No cough,No fever,No chest pain,Ascoril LS Syrup
+16-60,Bronchitis,Cough,Fever,Chest pain,Levoquin
+16-60,Bronchitis,No cough,No fever,No chest pain,Mucolite
+Above 60,Bronchitis,Cough,Fever,Chest pain,Cefixime
+Above 60,Bronchitis,No cough,No fever,No chest pain,Ambroxol Syrup
+Below 16,Heat Rash,Itching,Redness,Sweating,Candid Powder
+Below 16,Heat Rash,No itching,No redness,No sweating,Neomycin Powder
+16-60,Heat Rash,Itching,Redness,Sweating,Calamine Lotion
+16-60,Heat Rash,No itching,No redness,No sweating,BoroPlus
+Above 60,Heat Rash,Itching,Redness,Sweating,Dermadew
+Above 60,Heat Rash,No itching,No redness,No sweating,Prickly Heat Powder
+Below 16,Conjunctivitis,Redness,Itching,Discharge,Tobram Eye Drops
+Below 16,Conjunctivitis,No redness,No itching,No discharge,Refresh Tears
+16-60,Conjunctivitis,Redness,Itching,Discharge,FML Eye Drops
+16-60,Conjunctivitis,No redness,No itching,No discharge,Optive Drops
+Above 60,Conjunctivitis,Redness,Itching,Discharge,Gatifloxacin Drops
+Above 60,Conjunctivitis,No redness,No itching,No discharge,Lacrimos Drops
+Below 16,Tonsillitis,Pain,Fever,Swallowing difficulty,Azithral 500
+Below 16,Tonsillitis,No pain,No fever,No difficulty,Strepsils
+16-60,Tonsillitis,Pain,Fever,Swallowing difficulty,Cefadroxil
+16-60,Tonsillitis,No pain,No fever,No difficulty,Vicks Action 500
+Above 60,Tonsillitis,Pain,Fever,Swallowing difficulty,Clarithromycin
+Above 60,Tonsillitis,No pain,No fever,No difficulty,Cofsils Lozenges
+Below 16,Muscle Cramps,Leg,1+ hour,High pain,Dolonex Gel
+Below 16,Muscle Cramps,Arm,Less than 1 hour,Low pain,Revital
+16-60,Muscle Cramps,Leg,1+ hour,High pain,Myoril
+16-60,Muscle Cramps,Arm,Less than 1 hour,Low pain,Electrolyte Sachet
+Above 60,Muscle Cramps,Leg,1+ hour,High pain,Thiocolchicoside
+Above 60,Muscle Cramps,Arm,Less than 1 hour,Low pain,Magnesium Tablets
+Below 16,Food Poisoning,Nausea,Vomiting,Diarrhea,O2 Tablet
+Below 16,Food Poisoning,No nausea,No vomiting,No diarrhea,Smecta
+16-60,Food Poisoning,Nausea,Vomiting,Diarrhea,Noroxin + ORS
+16-60,Food Poisoning,No nausea,No vomiting,No diarrhea,Charcoal Tablets
+Above 60,Food Poisoning,Nausea,Vomiting,Diarrhea,Metrogyl + Electral
+Above 60,Food Poisoning,No nausea,No vomiting,No diarrhea,Entroquinol
+Below 16,Cholera,Diarrhea,Dehydration,Vomiting,ORS + Tetracycline
+Below 16,Cholera,No diarrhea,No dehydration,No vomiting,Metronidazole
+16-60,Cholera,Diarrhea,Dehydration,Vomiting,ORS + Doxycycline
+16-60,Cholera,No diarrhea,No dehydration,No vomiting,Furazolidone
+Above 60,Cholera,Diarrhea,Dehydration,Vomiting,ORS + Azithromycin
+Above 60,Cholera,No diarrhea,No dehydration,No vomiting,Ciprofloxacin
+Below 16,Chickenpox,Rash,Fever,Itching,Acyclovir
+Below 16,Chickenpox,No rash,No fever,No itching,Calamine Lotion
+16-60,Chickenpox,Rash,Fever,Itching,Valacyclovir
+16-60,Chickenpox,No rash,No fever,No itching,Antihistamine Cream
+Above 60,Chickenpox,Rash,Fever,Itching,Famciclovir
+Above 60,Chickenpox,No rash,No fever,No itching,Betadine Ointment
