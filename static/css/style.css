@@ -1,0 +1,170 @@
+/* Reset and Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* Use the provided image as background */
+    background: url('/static/images/dna-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; /* Ensure proper stacking of elements */
+}
+
+/* Logo and Website Name Styling */
+.logo-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex; /* Align logo and text horizontally */
+    align-items: center;
+    z-index: 10;
+}
+
+.logo {
+    width: 80px; /* Increased size for better visibility */
+    height: auto;
+    border-radius: 50%; /* Makes the logo round */
+}
+
+.website-name {
+    margin-left: 15px; /* Space between logo and text */
+    font-size: 1.8rem; /* Adjust text size */
+    font-weight: 700;
+    color: #ffffff; /* Changed text color to white for better contrast */
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Prevent Content Overlap */
+.container {
+    padding: 2rem;
+    margin-top: 100px; /* Push content below the logo */
+}
+
+/* Card Styling */
+.card {
+    max-width: 600px;
+    margin: 2rem auto;
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent black for contrast */
+    border-radius: 15px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+}
+
+/* Headings */
+h1.text-center {
+    font-size: 2.5rem;
+    color: #00d4ff; /* Bright cyan for contrast */
+    margin-bottom: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #00d4ff;
+    margin-bottom: 1.5rem;
+}
+
+/* Form Elements */
+.form-label {
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.form-control, .form-select {
+    border-radius: 8px;
+    border: 1px solid #4b4b4b;
+    padding: 0.75rem;
+    font-size: 1rem;
+    background: #2a2a2a; /* Dark gray background for inputs */
+    color: #ffffff;
+    transition: border-color 0.3s ease;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: #00d4ff;
+    box-shadow: 0 0 8px rgba(0, 212, 255, 0.5);
+    background: #333333;
+}
+
+.form-select option {
+    background: #2a2a2a;
+    color: #ffffff;
+}
+
+/* Button Styling */
+.btn-primary {
+    background: #00d4ff;
+    border: none;
+    border-radius: 8px;
+    padding: 0.8rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #000000; /* Black text for button readability */
+    transition: background 0.3s ease;
+}
+
+.btn-primary:hover {
+    background: #009abf;
+}
+
+/* Alerts */
+.alert {
+    margin-bottom: 20px;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.alert-success {
+    background: rgba(52, 168, 83, 0.8); /* Semi-transparent green */
+    color: #ffffff;
+    border: 1px solid #34a853;
+}
+
+.alert-danger {
+    background: rgba(220, 53, 69, 0.8); /* Semi-transparent red */
+    color: #ffffff;
+    border: 1px solid #dc3545;
+}
+
+/* Progress Bar for Questions Page */
+.progress {
+    height: 1.5rem;
+    border-radius: 8px;
+    background: #4b4b4b; /* Dark gray for progress background */
+    margin-bottom: 1.5rem;
+}
+
+.progress-bar {
+    background: #00d4ff;
+    font-weight: 500;
+    color: #000000;
+}
+
+/* Responsive Design */
+@media (max-width: 576px) {
+    .card {
+        padding: 1.5rem;
+        margin: 1rem;
+    }
+
+    h1.text-center {
+        font-size: 2rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+
+    .btn-primary {
+        font-size: 1rem;
+        padding: 0.7rem;
+    }
+}
+
